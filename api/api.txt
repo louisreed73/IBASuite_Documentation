@@ -1,7 +1,8 @@
 
 
 >-----------------------------------------------------------<
-In order to work with API is necessary to use basic Auth.
+
+**In order to work with API is necessary to use basic Auth.
 This meant use password: 136|luialc
 and generate token in IBA.
 
@@ -9,6 +10,30 @@ and generate token in IBA.
 
 My Profile > rightmouse botton > my profile tab > generate
 
-Copy and paste trimming all spaces !!important
+//important!! Copy and paste trimming all spaces 
 
->--------------------------------------<
+//important!! and Save.
+
+**Enable channel REST Service in IBASuite:
+
+Administration > Users > search "luialc" > btn Action > btn Modify > tab Channel Acces > check REST Service Channel Enabled 
+
+//important!! and Save/Update
+
+
+>-----------------------------------------------------------<
+
+
+>-----------------------------------------------------------<
+Swagger - Overview of REST API IBASuite
+
+https://training.dev.ibapplications.com/rest/swagger-ui.html
+
+https://test.ibapplications.com/rest/swagger-ui.html 136|luialc
+
+https://dev.ibapplications.com/rest/swagger-ui.html 136|luialc
+
+https://preprod.ibapplications.com/rest/swagger-ui.html 136|luialc
+
+
+>-----------------------------------------------------------<
