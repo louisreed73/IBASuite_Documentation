@@ -1,0 +1,50 @@
+login.microsoftonline.com :
+
+
+login.microsoftonline.com
+user: Luis.Sanchez.Alcazar@ibapplications.com
+passw: TGEsVN3EM4
+
+NEWpassw: !Fc<c8C$L,RLD.2
+
+-----------------------------------------
+
+zurich.okta-emea.com
+
+myID : LUIS.SANCHEZALCAZAR 
+
+------------------------------------
+
+I created your user accounts on 136, dev, test and preprod environments.
+ 
+luialc/Test123!
+
+user:luialc
+NEWpassw: Septiembre2021!
+
+
+------------------------
+
+Github IBA user
+
+IBAlouisReed
+
+Nos ponemos en contacto contigo para indicarte que tu usuario ID Ezcorp para Zurich ya está activado y es LUIS.SANCHEZALCAZAR
+El día de tu incorporación a proyecto, tu Line Manager de Zurich o tu responsable de proyecto te enviará la contraseña.
+
+----------------------------------------------------------
+
+https://ibapplications.okta-emea.com/
+
+https://ibapplications.atlassian.net/jira/projects
+
+user: Luis.Sanchez.Alcazar@ibapplications.com
+passw: TGEsVN3EM4
+
+NEWpassw: !Fc<c8C$L,RLD.2
+
+
+
+-----------------------------------------------------------------
+
+git config --global http.sslbackend schannel
