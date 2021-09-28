@@ -1,0 +1,14 @@
+
+
+>-----------------------------------------------------------<
+In order to work with API is necessary to use basic Auth.
+This meant use password: 136|luialc
+and generate token in IBA.
+
+**Generate Token:
+
+My Profile > rightmouse botton > my profile tab > generate
+
+Copy and paste trimming all spaces !!important
+
+>--------------------------------------<
