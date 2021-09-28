@@ -1,5 +1,3 @@
-
-
 //* Object.setKeys() return an hashMap of object members.
 //* Object.values() return an hashMap of object values.
 
@@ -23,3 +21,8 @@
 //*  scriptLog("DEBUG",Object.get(key))
 //* }
 
+
+
+//* dtoToJson() - mapToJson();
+//* var objAgency=dtoToJson(inputParams);
+//* var objAgency2=mapToJson(inputParams);
