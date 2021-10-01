@@ -1,5 +1,3 @@
-
-
 //? scriptLog(logLevel, message);
 
 //? jobLog(jobName,jobGroupName,"SUCCESS","message");
@@ -28,3 +26,12 @@
 //? var it = inputParams.keySet().toArray(); forEach 
 
 //? var it = inputParams.keySet().iterator(); while(it.hasNext()) {it.next()}
+
+// query
+//? var iql = "SELECT PARTY_TYPE_KEY FROM R_PARTY WHERE PARTY_NO = :serial";
+//? bindVars
+//? var bindVars = new BindVars();
+//? added BindVars
+//? bindVars.add("serial", serial);
+//? query invocation
+//? var iqlResult = iqlQuery(iql, bindVars);
